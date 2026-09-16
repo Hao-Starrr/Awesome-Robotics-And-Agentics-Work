@@ -246,7 +246,7 @@ For details please refer to [Papers List](papers/Robotics.md)
   ICRA'23, arXiv, 2022.10 [[Paper](https://arxiv.org/abs/2210.05714)], [[PDF](https://arxiv.org/pdf/2210.05714.pdf)], [[Code](https://arxiv.org/pdf/2308.07931.pdf)], [[Home Page](https://vlmaps.github.io/)]  <br>
 ### <a name="robo_planning"></a> Planning
 - **RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks** `Task Planning` <br>
-  *Ruiying Li, Yunlang Zhou, YuYao Zhu, et al., Yao Mu* <br>
+  *Ruiying Li<sup>*</sup>, Yunlang Zhou<sup>*</sup>, YuYao Zhu, et al., Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup>* <br>
   arXiv, 2026.03 [[Paper](https://arxiv.org/abs/2603.11558)], [[Code](https://github.com/RoboClaw-Robotics/RoboClaw)], [[Home Page](https://roboclaw-agibot.github.io/)]  <br>
 - **SUGAR: Pre-training 3D Visual Representations for Robotics** <br>
   *Shizhe Chen, Ricardo Garcia, Ivan Laptev, Cordelia Schmid* <br>
