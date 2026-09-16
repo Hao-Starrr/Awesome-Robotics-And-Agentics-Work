@@ -93,8 +93,7 @@
   [[Code](https://colab.research.google.com/drive/1xsH9Gr_O36sBZaoPNq1SmqgOOF12spV0?usp=sharing)]  <br>
 ## <a name="robo_planning"></a> Planning
 - **RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks** `Task Planning` <br>
-  *Ruiying Li<sup>*</sup>, Yunlang Zhou<sup>*</sup>, YuYao Zhu, et al., Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup>* <br>
-  <sup>*</sup>Equal contribution. <sup>†</sup>Corresponding authors. <br>
+  *Ruiying Li<sup>&#42;</sup>, Yunlang Zhou<sup>&#42;</sup>, YuYao Zhu, et al., Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup>* <br>
   arXiv, 2026.03 [[Paper](https://arxiv.org/abs/2603.11558)], [[Home Page](https://roboclaw-agibot.github.io/)] <br>
   [[Code](https://github.com/RoboClaw-Robotics/RoboClaw)] ![](https://img.shields.io/github/stars/RoboClaw-Robotics/RoboClaw?style=round-square&logo=Github&logoColor=white) ![](https://img.shields.io/github/last-commit/RoboClaw-Robotics/RoboClaw?style=round-square&logo=Github&logoColor=white)  <br>
 - **SUGAR: Pre-training 3D Visual Representations for Robotics** <br>
